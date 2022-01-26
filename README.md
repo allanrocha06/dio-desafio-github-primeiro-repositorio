@@ -15,12 +15,13 @@ Um algoritmo é um conjunto de instruções estruturadas e ordenadas, seu objeti
 - Fila;
 - Árvore;
 - Tabela Hash;
-- Grafos;\
+- Grafos;
 >**Vetores e Matrizes (Arrays)**: São estruturas de dados simples (indexado) que podem auxiliar quando há muitas variáveis do mesmo tipo em um algoritmo. Matriz é um vetor que possui duas ou mais dimensões.\
 **Registros:** É uma estrutura que fornece um formato especializado para armazenar informações em memória. É um recurso que nos permite armazenar mais de um tipo de dado.\
->**Listas:** Armazena dados de um determinado tipo em uma ordem específica. Possui tamanho ajustável, enquanto arrays possuem tamanho fixo. Existem dois tipos: ligadas e duplamente ligadas.\
+>**Listas:** Armazena dados de um determinado tipo em uma ordem específica. Possui tamanho ajustável, enquanto arrays possuem tamanho fixo. Existem dois tipos: ligadas e duplamente ligadas.
 >>**Lista Ligada:** existem os nós onde cada um conhece o valor que está sendo armazenado em seu interior além de conhecer o elemento posterior a ele. Assim a lista torna-se flexível, variável.\
->>**Lista duplamente ligada:** seu ligamento é bidirecional. Sabe o próximo elemento e o anterior.\
+>>**Lista duplamente ligada:** seu ligamento é bidirecional. Sabe o próximo elemento e o anterior.
+
 >**Pilhas:** Estrutura de dados que serve como uma coleção de elementos, e permite o acesso a somente um item de dados armazenado.
 A estrutura do tipo LIFO (Last in Firs out) ou UEPS (Último que Entra Primeiro que sai). Seu critério é: o primeiro elemento a ser retirado é o último que tiver sido inserido.
 A estrutura do tipo FIFO (Fist in First out) ou PEPS (Primeiro que Entra Primeiro que sai). Seu critério é: o primeiro elemento a ser retirado é o primeiro que tiver sido inserido.\
@@ -52,7 +53,7 @@ Ao realizar um “Commit” e posteriormente um “push” tudo que foi modifica
 **Cd ..:** volta para tela.\
 **TAB:** ao escrever o nome da pasta e apertar “TAB”, vai direto para pasta.\
 **Mkdir:** criar pasta.\
-**Rmdir:** exclui pasta e todo conteúdo dentro dela.\
+**Rmdir:** exclui pasta e todo conteúdo dentro dela.
 ## **Comandos Git**
 **Git –version:** mostra versão instalada na máquina.\
 **git init:** Cria um repositório.\
